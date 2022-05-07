@@ -1,5 +1,5 @@
 # OOP
-        PROIECT 1 <br />
+    PROIECT 1 <br />
 Cerinte :<br />
 1. Construiti-vă   o   mini   aplicație   care   gestionează   o  afacere/agendă/planificare etc.<br />
 2. Aplicația trebuie să conțină minim 4 clase.<br />
@@ -34,6 +34,7 @@ Operatorul pentru egalitate (==)<br />
 8.  Fiecare  clasa sa contina o functionalitate.  <br />
 9. Pentru 2 din clasele alese sa existe operatori matematici care sa permita operatiile intre cele doua clase. Exemplu:  Pentru  clasa  A  si  clasa  B    supraincarcam  operatorul  + astfel incat    sa    fie    permise urmatoarele:    A+B,    A+A+B, A+B+A+B....<br />
 10.  Proiectul trebuie  sa  fie insotit  de  un  meniu  interactivcare ne poatepermite cel putin operatiile de baza (CreateReadUpdateDelete)    dar    si    sa poata    sa    exemplifice functionalitatile aplicatiei. <br />
+<br />
         PROIECT 2 <br />
 Cerinte:<br />
 -Fiecare clasa sa contina :<br />
