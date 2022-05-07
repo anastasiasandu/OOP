@@ -1,5 +1,5 @@
 # OOP
-Proiect 1 :<br />
+        PROIECT 1 <br />
 Cerinte :<br />
 1. Construiti-vă   o   mini   aplicație   care   gestionează   o  afacere/agendă/planificare etc.<br />
 2. Aplicația trebuie să conțină minim 4 clase.<br />
@@ -33,4 +33,22 @@ Un operator condițional (<, ><=, >=)<br />
 Operatorul pentru egalitate (==)<br />
 8.  Fiecare  clasa sa contina o functionalitate.  <br />
 9. Pentru 2 din clasele alese sa existe operatori matematici care sa permita operatiile intre cele doua clase. Exemplu:  Pentru  clasa  A  si  clasa  B    supraincarcam  operatorul  + astfel incat    sa    fie    permise urmatoarele:    A+B,    A+A+B, A+B+A+B....<br />
-10.  Proiectul trebuie  sa  fie insotit  de  un  meniu  interactivcare ne poatepermite cel putin operatiile de baza (CreateReadUpdateDelete)    dar    si    sa poata    sa    exemplifice functionalitatile aplicatiei.  
+10.  Proiectul trebuie  sa  fie insotit  de  un  meniu  interactivcare ne poatepermite cel putin operatiile de baza (CreateReadUpdateDelete)    dar    si    sa poata    sa    exemplifice functionalitatile aplicatiei. <br />
+        PROIECT 2 <br />
+Cerinte:<br />
+-Fiecare clasa sa contina :<br />
+➢Constructorul fara parametri <br />
+➢Constructorul cu toti parametri<br />
+➢Copy Constructorul<br />
+➢Operator egal<br />
+➢Destructor<br />
+➢Operator de citire<br /> 
+➢Operator de afisare<br />
+-Sa se exemplifice conceptulde virtualizare<br />
+-Sa se exemplifice conceptul de mostenire pentru minim 3 clase alese<br />
+-Sa se exemplifice conceptul de Polimorfism<br />
+-Proiectul sa contina minim o clasa abstracta/interfata<br />
+-Pentru meniul interactiv sa se foloseasca operatorii necesari<br />
+-Fiecare clasa sa contina cel putin o functionalitate<br />
+-Sa se foloseasca cel putin o metoda constanta<br />
+ •Proiectul trebuie sa fie insotitde un meniu interactiv care ne poate permite cel putin operatiile de baza (CreateReadUpdateDelete) dar si sa poata sa exemplifice functionalitatile aplicatiei. 
