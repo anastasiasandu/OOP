@@ -1,5 +1,5 @@
 # OOP
-    PROIECT 1 <br />
+PROIECT 1 <br />
 Cerinte :<br />
 1. Construiti-vă   o   mini   aplicație   care   gestionează   o  afacere/agendă/planificare etc.<br />
 2. Aplicația trebuie să conțină minim 4 clase.<br />
