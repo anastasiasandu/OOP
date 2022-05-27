@@ -57,11 +57,11 @@ Cerinte:<br />
  ➢Să se implementeze din librăria STL cel puțin un vector, un set, o listă și un map pentru a gestiona datele aplicației.<br />
  ➢Scrierea și citirea din fișier<br />
  ➢Aplicația va conține un meniu (în consolă) prin care utilizatorul poate alegediverse opțiuni (import/export date, citire obiect nou de la tastatură, diverse functionalități ale aplicației) de tip Singleton<br />
- ➢Folosireaa cel putin o clasaTemplate <br />
+ ➢Folosireaa cel putin o clasa Template <br />
  ➢Folosirea a cel putin 2 metode Template<br />
  ➢Proiectul trebuie sa trateze toate exceptiile posibile care pot aparea la executarea codului (codul trebuie sa arunce cel putin 6 exceptii dintre care minim 3 diferite).<br />
  ➢Exemplificarea conceptelor de upcasting si downcasting(trebuie sa foloseasca si dynamic_cast)<br />
- ➢Exemplificarea conceptuluidemostenire pana la nepot. (Parint->Copil->Nepot)<br />
+ ➢Exemplificarea conceptului de mostenire pana la nepot. (Parint->Copil->Nepot)<br />
  ➢Fiecare clasa sa contina :<br />
  •Constructorul fara parametri<br />
  •Constructorul cu toti parametri<br />
