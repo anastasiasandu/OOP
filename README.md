@@ -55,7 +55,8 @@ Cerinte:<br />
  •Proiectul trebuie sa fie insotit de un meniu interactiv care ne poate permite cel putin operatiile de baza (CreateReadUpdateDelete) dar si sa poata sa exemplifice functionalitatile aplicatiei. <br />
           PROIECT 3 <br />
  ➢Să se implementeze din librăria STL cel puțin un vector, un set, o listă și un map pentru a gestiona datele aplicației.<br />
- ➢Scrierea și citirea din fișier➢Aplicația va conține un meniu (în consolă) prin care utilizatorul poate alegediverse opțiuni (import/export date, citire obiect nou de la tastatură, diverse functionalități ale aplicației) de tip Singleton<br />
+ ➢Scrierea și citirea din fișier<br />
+ ➢Aplicația va conține un meniu (în consolă) prin care utilizatorul poate alegediverse opțiuni (import/export date, citire obiect nou de la tastatură, diverse functionalități ale aplicației) de tip Singleton<br />
  ➢Folosireaa cel putin o clasaTemplate <br />
  ➢Folosirea a cel putin 2 metode Template<br />
  ➢Proiectul trebuie sa trateze toate exceptiile posibile care pot aparea la executarea codului (codul trebuie sa arunce cel putin 6 exceptii dintre care minim 3 diferite).<br />
