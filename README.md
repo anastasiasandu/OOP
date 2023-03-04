@@ -70,3 +70,9 @@ Cerinte:<br />
  •Destructor<br />
  •Operator de citire<br /> 
  •Operator de afisare<br />
+ <br />
+    PROIECT 3 <br />
+Cerinte:<br />
+Proiectul 3 consta in alegerea a minim 4 clase care sa exemplifice o aplicatie.  <br />
+Pentru toate clasele din proiecte, trebuie sa se respecte conceptul de incapsulare a datelor. <br />
+
